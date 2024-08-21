@@ -93,25 +93,29 @@ pip install -r requirements.txt
 - **Conclusion**: Summarizes the project outcome.
 
 ## Learning Outcome
-Natural Language Processing (NLP) Techniques:
+### Natural Language Processing (NLP) Techniques:
 
-Understand and apply text preprocessing techniques including tokenization, lemmatization, and stopword removal.
+1) Understand and apply text preprocessing techniques including tokenization, lemmatization, and stopword removal.
 Gain experience with cleaning and preparing real-world textual data for machine learning tasks.
-Vectorization Methods:
 
-Learn how to convert textual data into numerical representations using CountVectorizer and TFIDFVectorizer.
+### Vectorization Methods:
+
+1) Learned how to convert textual data into numerical representations using CountVectorizer and TFIDFVectorizer.
 Understand the differences between these vectorization techniques and how they impact model performance.
-Machine Learning Model Training:
 
-Gain hands-on experience with training and tuning machine learning models, specifically Logistic Regression, Support Vector Classifier (SVC), and Random Forest, on textual data.
+### Machine Learning Model Training:
+
+1) Gain hands-on experience with training and tuning machine learning models, specifically Logistic Regression, Support Vector Classifier (SVC), and Random Forest, on textual data.
 Learn to evaluate model performance using classification reports and confusion matrices.
-Model Evaluation and Comparison:
 
-Develop skills in interpreting classification metrics such as precision, recall, F1-score, and accuracy.
+### Model Evaluation and Comparison:
+
+1) Develop skills in interpreting classification metrics such as precision, recall, F1-score, and accuracy.
 Compare the performance of different models and vectorization methods using visualizations like heatmaps of confusion matrices.
-Python Programming:
 
-Enhance your ability to use Python for data science, including working with popular libraries such as Pandas, Scikit-learn, NLTK, and SpaCy.
+### Python Programming:
+
+1) Enhance your ability to use Python for data science, including working with popular libraries such as Pandas, Scikit-learn, NLTK, and SpaCy.
 Gain experience in structuring a complete machine learning project in Python, including data loading, preprocessing, model training, and evaluation.
 
 
